@@ -1,4 +1,4 @@
-# Metoda-Reprezentacyjna
+# Metoda Reprezentacyjna
 Materiały na zajęcia z Metody Reprezentacyjnej @ WIGE UEP
 
 ## Sylabus (2016/2017) - http://esylabus.ue.poznan.pl/pl/II00S.21B.843.15/rok/sylabus/5328
