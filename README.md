@@ -22,3 +22,7 @@ Materiały na zajęcia z Metody Reprezentacyjnej @ WIGE UEP
 ## Zaliczenie
 
 Projekt grupowy z prezentacją na zajęciach
+
+## Dane na zajęcia
+
+Baza badanie ludności (2010-2014) - https://bkl.parp.gov.pl/dane.html
