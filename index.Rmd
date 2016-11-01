@@ -1,0 +1,100 @@
+--- 
+title: "Metoda reprezentacyjna"
+author: "Maciej Beręsewicz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Materiały na zajęcia z metody reprezentacyjnej (Materials for survey methodology class at Poznan University of Econimics and Business, in Polish)."
+---
+
+# Metoda reprezentacyjna -- podstawowe wymagania
+
+Znajomość podstawowych metod ilościowych oraz narzędzi informatycznych, niezbędnych do prowadzenia badań próbkowych. Poniżej zebrane są najważniejsze punkty z sylabusa przedmiotu. Więcej szczegółów można znaleźć na [tej](http://esylabus.ue.poznan.pl/pl/II00S.21B.843.16/rok/sylabus/17007) stronie.
+
+## Cele kształcenia dla modułu
+
+
++ **C1** -- Poznanie wybranych metod badań próbkowych i estymacji oraz możliwości ich wykorzystania do opisu i analizy zjawisk gospodarczych i społecznych
++ **C2** -- Poznanie możliwości wykorzystania programu SAS, SPSS oraz arkusza kalkulacyjnego Exel w prowadzeniu badań próbkowych
++ **C4** -- Nabycie umiejętności projektowania badań statystycznych w warunkach różnorodności źródeł
++ **C4** -- Nabycie umiejętności prowadzenia i oceny badań statystycznych opartych na próbie
+
+## Efekty kształcenia dla modułu
+
+### Wiedza
+
++ **W1** -- Zna podstawowe źródła danych wykorzystywane do prowadzenia badan próbkowych	
++ **W2** -- Zna metody wykorzystywane w społeczno-gospodarczych badaniach próbkowych	
++ **W3** -- Zna metody wykorzystywane do oceny społeczno-gospodarczych badań próbkowych	
++ **W4** -- Zna wybrane, nieklasyczne metody badań próbkowych	
++ **W5** -- Zna możliwości wykorzystania programu SAS, SPSS, arkusza kalkulacyjnego Excel do prowadzenia badań próbkowych
+
+### Umiejętności
+
++ **U1** -- Potrafi właściwie dobrać źródła danych i metody statystyczne do realizacji różnych celów badawczych	
++ **U2** -- Potrafi wykorzystać program SAS, SPSS, arkusz kalkulacyjny Excel do porządkowania i prezentacji zbiorów danych oraz do prowadzenia analiz statystycznych	
++ **U3** -- Umie przeprowadzić analizę zjawisk społeczno-ekonomicznych za pomocą poznanych metod i interpretować uzyskane wyniki	
++ **U4** -- Potrafi wykorzystać poznane narzędzia do estymacji parametrów charakteryzujących zjawiska społeczno-ekonomiczne
+
+### Kompetencje społeczne
+
++ **K1** -- Potrafi przygotować proste badanie próbkowe	
++ **K2** -- Jest świadomy przydatności metod statystycznych w prowadzeniu badań opartych na próbie	
++ **K3** -- Potrafi samodzielnie uzupełniać wiedzę z zakresu metod statystycznych
+
+## Treści programowe
+
+1.	Etapy badania statystycznego	
+2.	Plany i strategie losowania, własności estymatorów	
+3.	Dokładność badań statystycznych – błędy losowe, podstawowe źródła i metody ich pomiaru, metody ograniczania błędów losowych, błędy nielosowe i ich klasyfikacja, metody ograniczania błędów nielosowych
+4.	Losowanie proste: estymacja podstawowych parametrów, niezbędna wielkość próby	
+5.	Estymatory złożone	
+6.	Losowanie warstwowe: wariant proporcjonalny i optymalny, estymatory złożone	
+7.	Losowanie zespołowe (gniazdowe)	
+8.	Losowanie systematyczne	
+9.	Losowanie wielostopniowe z jednakowymi i różnymi prawdopodobieństwami wyboru	
+10.	Badania powtarzalne, metoda rotacyjna, dobór kwotowy	
+11.	Imputacja i kalibracja danych statystycznych	
+12.	Statystyka małych obszarów (SMO)	
+13.	Nowoczesne techniki wspomagania wywiadu (CAPI, CASI, CATI, CAWI)	
+14.	Sondaże internetowe: rodzaje i reprezentatywność	
+15.	Bootstrapowe metody szacowania wariancji estymatora
+
+## Literatura
+
+### Obowiązkowa
+
+1. Bracha C., Teoretyczne podstawy metody reprezentacyjnej, PWN, Warszawa 1996
+2. Szreder M. Metody i techniki sondażowych badań opinii. PWE, Warszawa 2010, Wydanie II zmienione
+3. Zasępa R., Metoda reprezentacyjna, PWE, Warszawa 1972
+4. Rao J.N.K., Small Area Estimation, Wiley –Interscience, John Wiley and Sons, INC., Hoboken, New Jersey 2003
+5. Särndal C.E., Swensson B., Wretman J., Model Assisted Survey Sampling, Springer - Verlag, New York, Berlin, Heidelberg, London, Paris, 1992
+
+### Zalecana
+
+
+1. Dehnel G., Statystyka małych obszarów jako narzędzie oceny rozwoju ekonomicznego regionów. Wydawnictwo Akademii Ekonomicznej w Poznaniu, Poznań 2003,
+2. Dehnel, G., Gołata, E., Klimanek, T., Consideration on optimal sample design for small area estimation. STATISTICS IN TRANSITION, April 2004 Vol. 6, No. 5, s. 725—754
+3. Gołata E., Estymacja pośrednia bezrobocia na lokalnym rynku pracy. Wydawnictwo Akademii Ekonomicznej w Poznaniu. Prace habilitacyjne nr 11, Poznań 2004, ss. 380.
+4. Gołata E., Problems of estimating unemployment for small domains in Poland. STATISTICS IN TRANSITION, April 2004 Vol. 6, No. 5, s. 755—775.
+5. Kordos J. i J. Paradysz (2000a): Some experiments in small area estimation in Poland. Statistics in Transition 4.4., ss. 679—697.
+6. Paradysz J., (1997-red.) Metoda reprezentacyjna. Powielone materiały dydaktyczne. GUS, Poznań-Warszawa 1997.
+7. Paradysz J., (1997-red.) Statystyka regionalna. Sondaż i integracja baz danych. Urząd statystyczny w Poznaniu. Poznań 1997
+8. Paradysz J., Estymacja dla małych obszarów w statystyce regionalnej. [w:] Przestrzenno-czasowe modelowanie i prognozowanie zjawisk gospodarczych. Pod red. A. Zeliasia. Wydawnictwo Akademii Ekonomicznej w Krakowie, Kraków 2001, s. 193 – 209.
+9. Paradysz J., (2002-red.) Statystyka regionalna w służbie samorządu lokalnego i biznesu. Internetowa Oficy-na Wydawnicza Centrum Statystyki Regionalnej, Poznań 2002.
+
+
+## Wymagania dotyczące oprogramowania
+
+
+Do odtworzenia przykładów użytych w poniższym skrypcie wystarczy podstawowa znajomość R. Aby zainstalować R oraz RStudio można skorzystać z poniższych odnośników:
+
+* R - https://cloud.r-project.org/
+* RStudio - https://www.rstudio.com/products/rstudio/download/
+
+
