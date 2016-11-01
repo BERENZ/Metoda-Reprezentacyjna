@@ -1,3 +1,18 @@
 # Problematyka braków odpowiedzi
 
-We have finished a nice book.
+## Braki odpowiedzi -- podstaowe definicje
+
+## Imputacja
+
+## Ważenie danych
+
+### Post-stratyfikacja
+
+### Raking
+
+### Kalibracja
+
+## Prawdopodobieństwo odpowiedzi
+
+
+## Dalsze kroki

@@ -1,3 +1,18 @@
-# Przykłady badań statystycznych
+# Przykłady badań
 
-Here is a review of existing methods.
+## Badania statystyczne
+
+### Spisy
+
+### Badania częściowe
+
+### Sprawozdawczość
+
+## Nowe źródła danych
+
+### Rejestry administracyjne
+
+### Badania internetowe
+
+### Big Data
+

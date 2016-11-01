@@ -1,3 +1,9 @@
 # Statystyka małych obszarów
 
-We have finished a nice book.
+## Problematyka małych obszarów
+
+## Estymatory złożone i syntetyczne
+
+## Podejście modelowe
+
+## Dalsze kroki

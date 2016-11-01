@@ -1,3 +1,15 @@
-# Badania powtarzalne
+# Wariancja estymatorów
 
-We have finished a nice book.
+## Linearyzacja Taylora
+
+## Resampling and metody replikacyjne Method
+
+### Balanced Repeated Replication (BRR)
+
+### Jackknife
+
+### Bootstrap
+
+## Uogólniona funkcja wariancji
+
+## Dalsze kroki

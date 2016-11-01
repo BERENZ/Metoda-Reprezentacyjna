@@ -1,7 +1,15 @@
-# Applications
+# Estymacja
 
-Some _significant_ applications are demonstrated in this chapter.
+## Losowanie proste
 
-## Example one
+## Losowanie systematyczne
 
-## Example two
+## Losowanie warstwowe
+
+## Losowanie zespołowe z równymi prawdopodobieństwami
+
+## Losowanie z różnymi prawdopodobieństwami
+
+## Dalsze kroki
+
+

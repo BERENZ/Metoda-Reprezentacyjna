@@ -1,3 +1,8 @@
-# Statystyka małych obszarów
+# Wybrane problemy
 
-We have finished a nice book.
+## Analiza danych jakościowych
+
+## Analiza regresji dla prób nieprostych
+
+## Dalsze kroki
+

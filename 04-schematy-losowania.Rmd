@@ -1,3 +1,14 @@
 # Schematy losowania
 
-We describe our methods in this chapter.
+## Losowanie proste
+
+## Losowanie systematyczne
+
+## Losowanie warstwowe
+
+## Losowanie zespołowe z równymi prawdopodobieństwami
+
+## Losowanie z różnymi prawdopodobieństwami
+
+## Dalsze kroki
+
