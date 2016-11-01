@@ -1,0 +1,3 @@
+# Etapy badań statystycznych
+
+Here is a review of existing methods.

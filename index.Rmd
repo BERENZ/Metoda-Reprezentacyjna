@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: BERENZ/Metoda-Reprezentacyjna
 description: "Materiały na zajęcia z metody reprezentacyjnej (Materials for survey methodology class at Poznan University of Econimics and Business, in Polish)."
 ---
 
@@ -91,10 +91,18 @@ Znajomość podstawowych metod ilościowych oraz narzędzi informatycznych, niez
 
 ## Wymagania dotyczące oprogramowania
 
+### Oprogramowanie
 
 Do odtworzenia przykładów użytych w poniższym skrypcie wystarczy podstawowa znajomość R. Aby zainstalować R oraz RStudio można skorzystać z poniższych odnośników:
 
 * R - https://cloud.r-project.org/
 * RStudio - https://www.rstudio.com/products/rstudio/download/
+
+### Wymagane pakiety R
+
+* `sampling`
+* `survey`
+* `laeken`
+* `PracTools`
 
 
